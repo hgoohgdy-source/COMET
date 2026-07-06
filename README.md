@@ -386,6 +386,8 @@ Stage 3: Strict Pruning
 > - **RLD**：RL-Domination 独立进程推理（含模型加载 + 500 episodes）
 
 ## 快速开始
+首先需要自己生成对应数据，本项目附上了所有使用过的数据生成代码，请酌情选择。
+其中关于 LLM-Embedding 过程由 SentenceTransformer (all-MiniLM-L6-v2) 对图的文本描述编码得到，来源 Hugging Face 您可以自己下载别的模型尝试不同实验。
 
 ### 环境安装
 
