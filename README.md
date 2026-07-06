@@ -1,4 +1,4 @@
-# V9 Tensor-Memetic: LLM-Enhanced Memetic Search via Tensorized Population
+# COMET: Cross-Scale Tensorized Memetic Search with LLM Embedding
 
 基于 LLM 全局语义注入 + 张量化种群搜索 + PPO 联合调度的组合优化框架，支持 **最小支配集 (MDS)** 和 **最小顶点覆盖 (MVC)** 两大 NP-hard 问题。
 
